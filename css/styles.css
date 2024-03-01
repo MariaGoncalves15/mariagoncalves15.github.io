@@ -1,0 +1,30 @@
+p{
+    background-color:darksalmon;
+}
+
+h1 {
+    background-color:darksalmon;
+}
+
+
+body {
+    background-color:blanchedalmond;
+}
+
+h1 {
+    font-size:xx-large;
+    text-align: center;
+    font-style: oblique;
+}
+
+p {
+    background-color:blanchedalmond;
+}
+
+img {
+    width: 40%;
+    width: 50%;
+    margin: 5%;
+    border: 2px solid;
+    border-radius: 15%;
+}
