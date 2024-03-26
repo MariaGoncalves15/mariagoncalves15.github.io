@@ -19,6 +19,7 @@ h1 {
 
 p {
     background-color:blanchedalmond;
+    text-align: center;
 }
 
 img {
@@ -28,3 +29,68 @@ img {
     border-radius: 15%;
 }
 
+div{
+    position: relative;
+    justify-content: center;
+    display: block;
+    
+}
+
+p {
+    font-size: large;
+    margin-bottom: 20px;
+}
+#Colorir{
+    position: relative;
+    color:black;
+}
+
+#ColorirP2{
+    color:darkgreen;
+}
+
+button{
+
+    background-color:burlywood;
+    border-radius: 10px;
+    margin: 20px;
+    bottom: 100px;
+    width: 200px;
+    font-size: large;
+    
+}
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+
+nav:hover{
+    color: bisque;
+    font-size: 20px;
+}
+.Ajustar{
+    margin: 20px;
+    width: auto;
+    border-radius: 20%;
+    
+}
+
+#bottom-1{
+    display: block;
+    margin: auto;
+    width: max-content;
+}
+#bottom-2{
+    display: block;
+    margin: auto;
+    width: max-content;
+}
+#img-ajuste{
+    text-align: center;
+}
