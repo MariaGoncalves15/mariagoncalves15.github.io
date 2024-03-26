@@ -27,6 +27,7 @@ img {
     margin: 5%;
     border: 2px solid;
     border-radius: 15%;
+    text-align: center;
 }
 
 div{
@@ -39,6 +40,7 @@ div{
 p {
     font-size: large;
     margin-bottom: 20px;
+    text-align: center;
 }
 #Colorir{
     position: relative;
@@ -93,4 +95,24 @@ nav:hover{
 }
 #img-ajuste{
     text-align: center;
+}
+
+.menu{
+    list-style-type:none ;
+    display: flex;
+    
+}
+
+.aheader{
+    padding: 30px;
+    text-decoration: none;
+    border:solid 2px;
+    color: black;
+    background-color:darksalmon;
+    font-size: medium;
+    width:max-content;
+    display: block;
+    margin: 10px;
+    border-radius: 30px;
+    
 }
