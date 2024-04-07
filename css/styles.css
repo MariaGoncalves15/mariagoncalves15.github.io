@@ -132,3 +132,13 @@ nav:hover{
     text-align: center;
     flex-direction: column;
 }
+
+#menu2{
+    list-style-type:none ;
+    display: flex;
+    background-color: darksalmon;
+    font-style: oblique;
+    margin: auto;
+    width: max-content;
+    border-radius: 20px;
+}
