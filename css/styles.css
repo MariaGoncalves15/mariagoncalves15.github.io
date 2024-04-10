@@ -106,14 +106,37 @@ nav:hover{
     display: flex;
     background-color: darksalmon;
     font-style: oblique;
-    font-weight: bold;
+   
+}
+
+.menu ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.menu li{
+    margin: 0 2%;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+    
+}
+.menu a:hover{
+    background-color:salmon;
+    color:bisque;
 }
 
 .aheader{
-    padding: 30px;
     text-decoration: none;
     color: black;
-    font-size: medium;
+    border: 3px;
+    border-radius: 10px;
+    background-color: darksalmon;
+    transition: 0.5s;
+    padding: 0.2px;
+    font-size: large;
     width:max-content;
     display: block;
     margin: 10px;
