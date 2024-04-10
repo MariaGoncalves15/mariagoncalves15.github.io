@@ -106,6 +106,7 @@ nav:hover{
     display: flex;
     background-color: darksalmon;
     font-style: oblique;
+    font-weight: bold;
 }
 
 .aheader{
