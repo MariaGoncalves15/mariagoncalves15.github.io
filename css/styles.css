@@ -112,6 +112,7 @@ nav:hover{
 .menu ul{
     list-style-type: none;
     display: flex;
+    overflow-x: auto;
 }
 
 .menu li{
